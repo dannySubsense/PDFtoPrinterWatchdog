@@ -1,0 +1,19 @@
+# PDF Watcher and Printer
+
+A simple tool that watches a specified directory for new PDF files and automatically sends them to the default printer.
+
+## Requirements
+
+- Python 3.8 or higher.
+- PDFtoPrinter.exe included in the project folder.
+
+## Setup
+
+1. Clone or download the repository.
+2. Place the `PDFtoPrinter.exe` in the same directory as the script.
+3. Adjust the `WATCH_DIRECTORY` variable in the script to the directory you want to monitor for PDF files.
+
+## Usage
+
+Run the script:
+
